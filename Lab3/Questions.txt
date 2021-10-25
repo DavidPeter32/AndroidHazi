@@ -1,0 +1,50 @@
+1 Who is the creator of Kotlin?
+JetBrains
+Google
+Microsoft
+None of the Above
+2 What is the default behavior of Kotlin classes?
+All classes are final
+All classes are public
+All classes are sealed
+All are Correct
+3 How many constructors are available in Kotlin?
+2
+4
+6
+8
+4 What is the most important benefits of using Kotlin?
+All are Correct
+It is is a functional language and based on JVM.
+It is an expressive language which makes code readable and understandable.
+Kotlin language is easy to learn as its syntax is similar to Java
+5 What are the basic data types in Kotlin?
+All are Correct
+Booleans & Arrays
+Numbers & Strings
+Characters
+6 How do you get the length of a string in Kotlin?
+str.length
+length(str)
+str.lengthOf
+srtlen
+7 Kotlin was developed under the which license?
+Apache 2.0
+Apache 1.0
+Apache 2.1
+Apache 1.1
+8 Which of these is used to handle null exceptions in Kotlin?
+Elvis Operator
+Lambda function
+Range
+Sealed Class
+9 What is the difference between val and var in Kotlin?
+Variables declared with val are final, those with var are not
+var is scoped to the nearest function block and val is scoped to the nearest enclosing block
+Variables declared with val can only access const members
+Variables declared with var are final, those with val are not
+10 What is the correct syntax to convert the String "42" to a Long in Kotlin?
+val l: Long = "42".toLong()
+val l: Long = <Long>"42"
+val l: Long = (Long)"42"
+val l: Long = Long.parseLong("42")
